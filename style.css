@@ -1,0 +1,58 @@
+h1 {color: #990000}
+
+.container {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cardholder{
+  display: flex;
+ 
+}
+.card{
+  width: 400px;
+  background: #800000;
+  text-align: center;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 1px;
+  box-shadow: 0px 0px 3px 2px gray;
+ 
+  
+}
+.newsletter-form {
+  color: #3d3d5c;
+  border: solid thin #cfcfcf;
+  padding: 8px;
+  border-radius: 3px;
+  position: relative;
+  margin-top: 40px;
+}
+
+.newsletter-form h3 {
+  margin-top: 0;
+}
+
+.newsletter-form button {
+  display: block;
+  width: 100%;
+  background: #800000;
+  border:0;
+  color: white;
+  height: 30px;
+  margin-top: 5px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none ;
+}
+
+/*Selection of id is # */
+/* Ctrl+/ */
+
+#terms {
+  position: relative;
+    top: 2px;
+}
